@@ -1,0 +1,7 @@
+node_modules
+dist
+bun.lock
+npm.lock
+pnpm-lock.yaml
+yarn.lock
+yarn-error.log
